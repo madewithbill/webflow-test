@@ -1,0 +1,1 @@
+gsap.from(".button", { y: 50, opacity:0, stagger:0.5 });
